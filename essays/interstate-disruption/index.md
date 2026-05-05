@@ -1,6 +1,6 @@
 ---
 title: Disruption of U.S. Interstate System on Cities
-layout: scrollstory
+layout: base
 header-title: Interstate Map
 header-image: images/us-interstate-map.jpg
 thumbnail: images/ca-times-405image.jpg
