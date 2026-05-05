@@ -1,7 +1,7 @@
 ---
 title: Disruption of U.S. Interstate System on Cities
 layout: base
-header-title: Essays
+header-title: Interstate Map
 header-image: images/us-interstate-map.jpg
 thumbnail: images/i-70genessepark.jpg
 ---
