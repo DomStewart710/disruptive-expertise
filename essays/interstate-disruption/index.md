@@ -12,6 +12,15 @@ thumbnail: images/ca-times-405image.jpg
 # Who got Affected by Highways
 The construction of the interstate system within cities was often synonymous with "slum clearance" and urban renewal, strategies that intentionally targeted poor and minority neighborhoods. Influential planners like Robert Moses advocated for highways to go "right through cities and not around them," viewing the massive infrastructure as a tool to raze areas designated as "blighted". This policy led to the displacement of more than one million people and 475,000 households nationwide, with neighborhoods of color bearing a disproportionate share of the destruction. For instance, the expansion of I-95 in Miami decimated the vibrant Black community of Overtown, reducing its population from 40,000 to just 8,000. Similarly, I-94 in St. Paul divided the Rondo neighborhood, shuttering 300 businesses and displacing 600 families.
 
+{% include images/figure-wrap.html
+  image-path="images/i-095-s-exit-012-8.jpg"
+  image-position="center"
+  image-width="50%"
+  caption="I-95 going through Miami."
+  text=britannica_text
+%}
+
+
 # Immediate Effects of the Highways
 Beyond immediate demolition, highways were frequently used as tools of racial segregation, creating physical buffers that isolated communities of color from white areas. In Atlanta, planners designed I-20 specifically to serve as a boundary between Black and white residents, reinforcing racially determined neighborhood limits. These "concrete walls and asphalt no man’s lands" not only severed community cohesion but also led to long-term economic decline, loss of local tax bases, and severe health disparities, such as increased asthma hospitalization rates in neighborhoods bordering major interchanges.
 
