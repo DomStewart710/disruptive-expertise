@@ -3,7 +3,7 @@ title: Disruption of U.S. Interstate System on Cities
 layout: base
 header-title: Essays
 ---
-images/us-interstate-map.jpg
+header-image: image/us-interstate-map.jpg
 
 # The Disruption of the U.S. Interstate System on Cities
 
