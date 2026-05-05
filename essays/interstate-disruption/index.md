@@ -19,3 +19,8 @@ This mass migration, often termed "white flight," was facilitated by the ease of
 
 # Conclusion
 In conclusion, the U.S. interstate highway system achieved its goal of connecting the nation, but at the cost of the viability and social fabric of its cities. What were intended as arteries of commerce and defense often became agents of displacement and segregation, creating an automobile-dependent suburban model that remains the dominant feature of the American landscape today. Modern urban planning is now increasingly focused on remediating these harms through highway removals and "capping" projects intended to reconnect neighborhoods severed decades ago
+
+{% assign all_pages = site.pages %}
+{% assign cards = all_pages | where_exp: "p", "p.path contains 'essays/'" | where_exp: "p", "p.path != 'essays/index.md'" %}
+
+{% include nav/card-stack.html cards=cards %}
