@@ -34,6 +34,7 @@ Beyond immediate demolition, highways were frequently used as tools of racial se
   text=britannica_text
 %}
 
+
 # The Destruction of the Urban Core
 While the system gutted urban cores, it simultaneously fueled the rise of the modern suburb. The 1956 Act predicated 90 percent federal funding on the condition that highways connect emerging suburbs to downtown centers where commuters worked and shopped. According to Land Use Theory, the introduction of high-speed "rays" reduced commuting times, which lowered population density in the center and increased the demand for suburban space. Empirical research indicates that each new highway passing through a central city reduced its population by about 18 percent between 1950 and 1990.
 This mass migration, often termed "white flight," was facilitated by the ease of travel the interstates provided. As white residents utilized the "beautiful new highways" to escape diversifying urban centers, they were often assisted by discriminatory practices like redlining and restrictive covenants that were common in the newly accessible suburban ring. Best causal estimates suggest that "white flight" accounts for roughly 20 percent of total suburban growth during the postwar period.
