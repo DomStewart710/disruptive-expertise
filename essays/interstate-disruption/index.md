@@ -12,6 +12,7 @@ thumbnail: images/ca-times-405image.jpg
 # Who got Affected by Highways
 The construction of the interstate system within cities was often synonymous with "slum clearance" and urban renewal, strategies that intentionally targeted poor and minority neighborhoods. Influential planners like Robert Moses advocated for highways to go "right through cities and not around them," viewing the massive infrastructure as a tool to raze areas designated as "blighted". This policy led to the displacement of more than one million people and 475,000 households nationwide, with neighborhoods of color bearing a disproportionate share of the destruction. For instance, the expansion of I-95 in Miami decimated the vibrant Black community of Overtown, reducing its population from 40,000 to just 8,000. Similarly, I-94 in St. Paul divided the Rondo neighborhood, shuttering 300 businesses and displacing 600 families.
 
+
 {% include images/figure-wrap.html
   image-path="images/i-095-s-exit-012-8.jpg"
   image-position="center"
